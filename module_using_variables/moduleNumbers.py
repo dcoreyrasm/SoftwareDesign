@@ -2,8 +2,8 @@
 
 a = raw_input('Enter a number: ')
 b = raw_input('Enter another number: ')
-a = int(a)
-b = int(b)
+a = float(a)
+b = float(b)
 print ("This is the sum of your first and second variables.")
 print(a + b)
 
