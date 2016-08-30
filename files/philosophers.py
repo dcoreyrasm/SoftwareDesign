@@ -1,0 +1,5 @@
+f = open('myFile.txt', 'w')
+f.write("John Locke\n")
+f.write("David Hume\n")
+f.write("Edmund Burke")
+f.close()
