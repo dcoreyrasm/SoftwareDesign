@@ -9,8 +9,7 @@ print (fnames)
 print ("Here is your sorted input:")
 print sorted (fnames)
 
-print ("Here is your sorted input:")
-print sorted (fnames.reverse())
+
 
 
  
